@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey Tyurin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science / Python Full-stack Developer / Pentesting
+- 🌱 I’m currently learning Data Science / Python Full-stack Developer / Pentesting / Gamedev (Unity)
 - 📫 admin (at) asl2.ru
 
 <!---
